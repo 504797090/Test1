@@ -1,0 +1,282 @@
+-------------------------------------------------------------------
+server started on port:8002
+-------------------------------------------------------------------
+=-======================
+2016-03-01 22:28:55 : authorization sql
+2016-03-01 22:28:55 : admin id :150
+2016-03-01 22:28:55 :  login in
+2016-03-01 22:29:08 : authorization sql
+2016-03-01 22:29:08 : admin id :20
+2016-03-01 22:29:08 :  login in
+2016-03-01 22:29:15 : authorization sql
+2016-03-01 22:29:15 : admin id :63
+2016-03-01 22:29:15 :  login in
+2016-03-01 22:30:31 : authorization sql
+2016-03-01 22:30:31 : admin id :150
+2016-03-01 22:30:32 :  login in
+2016-03-01 22:34:32 : authorization sql
+2016-03-01 22:34:32 : admin id :150
+2016-03-01 22:34:32 :  login in
+2016-03-01 22:38:08 : authorization sql
+2016-03-01 22:38:08 : admin id :150
+2016-03-01 22:38:08 :  login in
+2016-03-01 22:40:26 : authorization sql
+2016-03-01 22:40:26 : admin id :150
+2016-03-01 22:40:26 :  login in
+2016-03-01 23:31:16 : newUser id:129578
+2016-03-01 23:44:51 : authorization sql
+2016-03-01 23:44:51 : admin id :20
+2016-03-01 23:44:52 :  login in
+2016-03-01 23:54:57 : authorization sql
+2016-03-01 23:54:57 : admin id :150
+2016-03-01 23:54:58 :  login in
+2016-03-02 00:12:35 : newUser id:129537,0,150
+2016-03-02 03:41:59 : newUser id:128473
+2016-03-02 06:56:27 : authorization sql
+2016-03-02 06:56:27 : admin id :150
+2016-03-02 06:56:27 :  login in
+2016-03-02 06:59:46 : authorization sql
+2016-03-02 06:59:46 : admin id :136
+2016-03-02 06:59:47 :  login in
+2016-03-02 07:00:33 : newUser id:127456,0,136
+2016-03-02 07:10:17 : authorization sql
+2016-03-02 07:10:17 : admin id :134
+2016-03-02 07:10:18 :  login in
+2016-03-02 07:16:45 : newUser id:129465,0,136
+2016-03-02 07:23:42 : newUser id:129440,0,150
+2016-03-02 07:24:30 : authorization sql
+2016-03-02 07:24:30 : admin id :136
+2016-03-02 07:24:30 :  login in
+2016-03-02 07:24:33 : authorization sql
+2016-03-02 07:24:33 : admin id :150
+2016-03-02 07:24:34 :  login in
+2016-03-02 07:25:18 : authorization sql
+2016-03-02 07:25:18 : admin id :136
+2016-03-02 07:25:19 :  login in
+2016-03-02 07:45:37 : newUser id:129381,0,136
+2016-03-02 07:51:49 : authorization sql
+2016-03-02 07:51:49 : admin id :160
+2016-03-02 07:51:49 :  login in
+2016-03-02 07:53:15 : authorization sql
+2016-03-02 07:53:15 : admin id :136
+2016-03-02 07:53:16 :  login in
+2016-03-02 07:54:13 : authorization sql
+2016-03-02 07:54:13 : admin id :136
+2016-03-02 07:54:13 :  login in
+2016-03-02 07:57:05 : authorization sql
+2016-03-02 07:57:05 : admin id :136
+2016-03-02 07:57:05 :  login in
+2016-03-02 08:14:25 : authorization sql
+2016-03-02 08:14:25 : admin id :20
+2016-03-02 08:14:26 :  login in
+2016-03-02 08:16:14 : authorization sql
+2016-03-02 08:16:14 : admin id :32
+2016-03-02 08:16:15 :  login in
+2016-03-02 08:42:55 : authorization sql
+2016-03-02 08:42:55 : admin id :136
+2016-03-02 08:42:55 :  login in
+2016-03-02 08:44:10 : authorization sql
+2016-03-02 08:44:10 : admin id :136
+2016-03-02 08:44:10 :  login in
+2016-03-02 08:58:46 : authorization sql
+2016-03-02 08:58:46 : admin id :136
+2016-03-02 08:58:46 :  login in
+2016-03-02 09:42:27 : authorization sql
+2016-03-02 09:42:27 : admin id :136
+2016-03-02 09:42:27 :  login in
+2016-03-02 10:31:28 : authorization sql
+2016-03-02 10:31:28 : admin id :136
+2016-03-02 10:31:28 :  login in
+2016-03-02 10:32:26 : authorization sql
+2016-03-02 10:32:26 : admin id :136
+2016-03-02 10:32:26 :  login in
+2016-03-02 10:34:11 : authorization sql
+2016-03-02 10:34:11 : admin id :136
+2016-03-02 10:34:19 : authorization sql
+2016-03-02 10:34:19 : admin id :136
+2016-03-02 10:34:19 :  login in
+2016-03-02 10:34:45 : authorization sql
+2016-03-02 10:34:45 : admin id :136
+2016-03-02 10:34:45 :  login in
+2016-03-02 10:37:59 : authorization sql
+2016-03-02 10:37:59 : admin id :136
+2016-03-02 10:38:00 :  login in
+2016-03-02 10:38:44 : authorization sql
+2016-03-02 10:38:44 : admin id :160
+2016-03-02 10:38:44 :  login in
+2016-03-02 10:40:16 : authorization sql
+2016-03-02 10:40:16 : admin id :136
+2016-03-02 10:40:17 :  login in
+2016-03-02 10:40:21 : authorization sql
+2016-03-02 10:40:21 : admin id :136
+2016-03-02 10:41:19 : authorization sql
+2016-03-02 10:41:19 : admin id :136
+2016-03-02 10:41:19 :  login in
+2016-03-02 10:42:09 : authorization sql
+2016-03-02 10:42:09 : admin id :20
+2016-03-02 10:42:09 :  login in
+2016-03-02 11:21:39 : authorization sql
+2016-03-02 11:21:39 : admin id :20
+2016-03-02 11:21:39 :  login in
+2016-03-02 11:24:19 : authorization sql
+2016-03-02 11:24:19 : admin id :79
+2016-03-02 11:24:20 : kobby login in
+2016-03-02 11:33:58 : authorization sql
+2016-03-02 11:33:58 : admin id :20
+2016-03-02 11:33:58 :  login in
+2016-03-02 11:53:01 : authorization sql
+2016-03-02 11:53:01 : admin id :136
+2016-03-02 11:54:30 : newUser id:128404,0,20
+2016-03-02 11:57:08 : authorization sql
+2016-03-02 11:57:08 : admin id :136
+2016-03-02 11:57:08 :  login in
+2016-03-02 12:23:03 : authorization sql
+2016-03-02 12:23:03 : admin id :32
+2016-03-02 12:23:04 :  login in
+2016-03-02 12:23:32 : authorization sql
+2016-03-02 12:23:32 : admin id :136
+2016-03-02 12:53:45 : authorization sql
+2016-03-02 12:53:45 : admin id :32
+2016-03-02 12:53:45 :  login in
+2016-03-02 12:56:21 : authorization sql
+2016-03-02 12:56:21 : admin id :32
+2016-03-02 12:56:22 :  login in
+2016-03-02 13:04:43 : authorization sql
+2016-03-02 13:04:43 : admin id :32
+2016-03-02 13:04:43 :  login in
+2016-03-02 13:06:01 : authorization sql
+2016-03-02 13:06:01 : admin id :136
+2016-03-02 13:06:02 :  login in
+2016-03-02 13:06:04 : authorization sql
+2016-03-02 13:06:04 : admin id :32
+2016-03-02 13:06:04 :  login in
+2016-03-02 13:06:34 : authorization sql
+2016-03-02 13:06:34 : admin id :160
+2016-03-02 13:06:34 :  login in
+2016-03-02 13:08:57 : authorization sql
+2016-03-02 13:08:57 : admin id :20
+2016-03-02 13:08:57 :  login in
+2016-03-02 13:11:46 : authorization sql
+2016-03-02 13:11:46 : admin id :20
+2016-03-02 13:11:46 :  login in
+2016-03-02 13:12:41 : newUser id:128477,0,136
+2016-03-02 13:34:12 : authorization sql
+2016-03-02 13:34:12 : admin id :136
+2016-03-02 13:34:13 :  login in
+2016-03-02 13:51:25 : authorization sql
+2016-03-02 13:51:25 : admin id :136
+2016-03-02 13:51:25 :  login in
+2016-03-02 13:58:45 : authorization sql
+2016-03-02 13:58:45 : admin id :32
+2016-03-02 13:58:45 :  login in
+2016-03-02 14:01:26 : authorization sql
+2016-03-02 14:01:26 : admin id :32
+2016-03-02 14:01:26 :  login in
+2016-03-02 14:03:45 : authorization sql
+2016-03-02 14:03:45 : admin id :136
+2016-03-02 14:03:46 :  login in
+2016-03-02 14:14:38 : authorization sql
+2016-03-02 14:14:38 : admin id :136
+2016-03-02 14:14:38 :  login in
+2016-03-02 14:21:22 : authorization sql
+2016-03-02 14:21:22 : admin id :160
+2016-03-02 14:21:22 :  login in
+2016-03-02 14:49:43 : authorization sql
+2016-03-02 14:49:43 : admin id :32
+2016-03-02 14:49:43 :  login in
+2016-03-02 14:56:20 : authorization sql
+2016-03-02 14:56:20 : admin id :136
+2016-03-02 14:56:20 :  login in
+2016-03-02 15:11:15 : authorization sql
+2016-03-02 15:11:15 : admin id :136
+2016-03-02 15:11:15 :  login in
+2016-03-02 15:11:17 : authorization sql
+2016-03-02 15:11:17 : admin id :136
+2016-03-02 15:11:17 :  login in
+2016-03-02 15:20:09 : authorization sql
+2016-03-02 15:20:09 : admin id :32
+2016-03-02 15:20:09 :  login in
+2016-03-02 15:34:58 : newUser id:78497,0,160
+2016-03-02 15:51:31 : authorization sql
+2016-03-02 15:51:31 : admin id :136
+2016-03-02 15:51:32 :  login in
+2016-03-02 15:58:37 : authorization sql
+2016-03-02 15:58:37 : admin id :136
+2016-03-02 15:58:37 :  login in
+2016-03-02 16:01:40 : authorization sql
+2016-03-02 16:01:40 : admin id :20
+2016-03-02 16:01:41 :  login in
+2016-03-02 16:50:27 : authorization sql
+2016-03-02 16:50:27 : admin id :136
+2016-03-02 16:50:27 :  login in
+2016-03-02 16:53:26 : authorization sql
+2016-03-02 16:53:26 : admin id :136
+2016-03-02 16:53:26 :  login in
+2016-03-02 16:57:30 : authorization sql
+2016-03-02 16:57:30 : admin id :136
+2016-03-02 16:57:30 :  login in
+2016-03-02 17:19:48 : authorization sql
+2016-03-02 17:19:48 : admin id :161
+2016-03-02 17:19:49 :  login in
+2016-03-02 18:58:32 : authorization sql
+2016-03-02 18:58:32 : admin id :161
+2016-03-02 18:58:32 :  login in
+2016-03-02 19:10:02 : authorization sql
+2016-03-02 19:10:02 : admin id :160
+2016-03-02 19:10:03 :  login in
+2016-03-02 19:18:33 : authorization sql
+2016-03-02 19:18:33 : admin id :161
+2016-03-02 19:18:34 :  login in
+2016-03-02 19:29:04 : authorization sql
+2016-03-02 19:29:04 : admin id :161
+2016-03-02 19:29:04 :  login in
+2016-03-02 19:43:35 : authorization sql
+2016-03-02 19:43:35 : admin id :160
+2016-03-02 19:43:35 :  login in
+2016-03-02 19:55:08 : authorization sql
+2016-03-02 19:55:08 : admin id :150
+2016-03-02 19:55:08 :  login in
+2016-03-02 20:41:08 : newUser id:128884,0,150
+2016-03-02 20:42:38 : newUser id:129543,0,150
+2016-03-02 20:59:47 : newUser id:44930,0,150
+2016-03-02 21:00:59 : newUser id:129556,0,150
+2016-03-02 23:38:17 : newUser id:127680,0,150
+2016-03-03 07:04:12 : authorization sql
+2016-03-03 07:04:12 : admin id :134
+2016-03-03 07:04:12 :  login in
+2016-03-03 07:06:02 : authorization sql
+2016-03-03 07:06:02 : admin id :134
+2016-03-03 07:06:02 :  login in
+2016-03-03 07:08:14 : authorization sql
+2016-03-03 07:08:14 : admin id :150
+2016-03-03 07:08:14 :  login in
+2016-03-03 07:12:49 : authorization sql
+2016-03-03 07:12:49 : admin id :136
+2016-03-03 07:12:49 :  login in
+2016-03-03 07:29:06 : authorization sql
+2016-03-03 07:29:06 : admin id :136
+2016-03-03 07:29:06 :  login in
+2016-03-03 07:51:23 : authorization sql
+2016-03-03 07:51:23 : admin id :136
+2016-03-03 07:51:23 :  login in
+2016-03-03 07:55:20 : authorization sql
+2016-03-03 07:55:20 : admin id :161
+2016-03-03 07:55:20 :  login in
+2016-03-03 08:00:33 : authorization sql
+2016-03-03 08:00:33 : admin id :161
+2016-03-03 08:00:33 :  login in
+2016-03-03 08:08:07 : authorization sql
+2016-03-03 08:08:07 : admin id :160
+2016-03-03 08:08:07 :  login in
+2016-03-03 08:18:34 : authorization sql
+2016-03-03 08:18:34 : admin id :161
+2016-03-03 08:18:34 :  login in
+2016-03-03 08:19:35 : authorization sql
+2016-03-03 08:19:35 : admin id :136
+2016-03-03 08:19:35 :  login in
+2016-03-03 08:31:56 : authorization sql
+2016-03-03 08:31:56 : admin id :161
+2016-03-03 08:31:56 :  login in
+2016-03-03 08:54:29 : authorization sql
+2016-03-03 08:54:29 : admin id :134
+2016-03-03 08:54:29 :  login in

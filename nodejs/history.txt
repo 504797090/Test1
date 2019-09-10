@@ -1,0 +1,1000 @@
+crontab -e
+crontab -e
+crontab -e
+crontab -e
+crontab -l
+crontab -l
+crontab -e
+crontab -l
+exit
+crontab -e
+crontab -l
+exit
+crontab -e
+crontab -e
+crontab -l
+exit
+crontab -e
+crontab -l
+crontab -e
+crontab -l
+exit
+crontab -l
+top
+exit
+rontab -l
+crontab -l
+crontab -e
+crontab -l
+crontab -w
+crontab -e
+crontab -l
+exit
+cd /data/htdocs/www
+tar -cvzf /data/back/20150910_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+top
+cd /data/htdocs/www
+tar -cvzf /data/back/20151224.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd / tar -cvzf /data/back/20151224.tar.gz ./ --exclude=/data/htdocs/www/weixin/log --exclude=/data/htdocs/www/data/photo --exclude=/data/htdocs/www/data/jobpics --exclude=/data/htdocs/www/data/idcards --exclude=/data/htdocs/www/qy_weixin/log  --exclude=data/wxmedia --exclude=/data/htdocs/www/data/xls --exclude=/data/htdocs/www/data/hrtools --exclude=/data/htdocs/www/data/ads --exclude=/data/htdocs/www/data/images --exclude=/data/htdocs/www/data/adlogo
+cd /tar -cvzf /data/back/20151224.tar.gz ./ --exclude=/data/htdocs/www/weixin/log --exclude=/data/htdocs/www/data/photo --exclude=/data/htdocs/www/data/jobpics --exclude=/data/htdocs/www/data/idcards --exclude=/data/htdocs/www/qy_weixin/log  --exclude=data/wxmedia --exclude=/data/htdocs/www/data/xls --exclude=/data/htdocs/www/data/hrtools --exclude=/data/htdocs/www/data/ads --exclude=/data/htdocs/www/data/images --exclude=/data/htdocs/www/data/adlogo
+cd /
+tar -cvzf /data/back/20151224.tar.gz ./ --exclude=/data/htdocs/www/weixin/log --exclude=/data/htdocs/www/data/photo --exclude=/data/htdocs/www/data/jobpics --exclude=/data/htdocs/www/data/idcards --exclude=/data/htdocs/www/qy_weixin/log  --exclude=data/wxmedia --exclude=/data/htdocs/www/data/xls --exclude=/data/htdocs/www/data/hrtools --exclude=/data/htdocs/www/data/ads --exclude=/data/htdocs/www/data/images --exclude=/data/htdocs/www/data/adlogo
+cd /
+tar -cvzf /data/back/20151224.tar.gz ./ --exclude=/data/htdocs/www/weixin/log --exclude=/data/htdocs/www/data/photo --exclude=/data/htdocs/www/data/jobpics --exclude=/data/htdocs/www/data/idcards --exclude=/data/htdocs/www/qy_weixin/log  --exclude=data/wxmedia --exclude=/data/htdocs/www/data/xls --exclude=/data/htdocs/www/data/hrtools --exclude=/data/htdocs/www/data/ads --exclude=/data/htdocs/www/data/images --exclude=/data/htdocs/www/data/adlogo
+cd /data/htdocs/www
+tar -cvzf /data/back/20150910_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+crontab -l
+crontab -l
+exit
+crontab -e
+crontab -l
+tar -cvzf /data/back/20130103_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+tar -cvzf /data/back/20150910_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd /data/htdocs/www
+tar -cvzf /data/back/20150910_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+crontab -l
+cd /data/htdocs/www
+tar -cvzf /data/back/20160112.tar.gz ./
+ls
+ps -ef
+　　ps -ef | grep nginx
+ps -ef | grep nginx
+cd /usr/local/
+ls
+ifconfig
+df -h
+history 
+history | grep nginx
+whereis nginx
+find / -name nginx
+cd /
+find / -name nginx
+/data/apps/nginx/sbin/nginx -s reload 
+pwd
+pwd
+df -h
+history 
+history 
+history 
+cd /data/htdocs/www/
+ll
+history 
+tar -cvzf /data/back/20130103_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+ls
+history 
+ps -ef
+cd /data/
+ls
+cd htdocs/
+ls
+cd www/
+ll
+ls -lt
+cd ..
+cd ..
+ll
+cd htdocs/
+ll
+cd ..
+ls 
+pwd
+ls
+cd htdocs/
+ll
+cd www/
+ll
+tar -cvzf /data/back/20160112.tar.gz ./ --exclude=/data/htdocs/www/weixin/log --exclude=/data/htdocs/www/data/photo --exclude=/data/htdocs/www/data/jobpics --exclude=/data/htdocs/www/data/idcards --exclude=/data/htdocs/www/qy_weixin/log  --exclude=data/wxmedia --exclude=/data/htdocs/www/data/xls --exclude=/data/htdocs/www/data/hrtools --exclude=/data/htdocs/www/data/ads --exclude=/data/htdocs/www/data/images --exclude=/data/htdocs/www/data/adlogo
+history 
+pwd
+pwd
+history 
+ps -ef | grep node
+history 
+node server
+node --help
+history | grep nginx
+cd /data/
+cd apps/
+ll
+cd node-v0.10.32/
+ll
+node 
+history | grep npm
+cd ..
+ls
+cd nginx/
+ll
+cd conf/
+ll
+cd ..
+ll
+ps -ef
+ls
+cd conf/
+ls
+ll
+vim nginx.conf
+lls
+ls
+ll
+vim fastcgi.conf
+netstat -apn
+netstat -apn| grep 8002
+vim nginx.conf
+node --help
+cd /data/htdocs/www/
+ls
+cd chat
+ll
+cd scripts/
+ll
+node hichat_xiaoxi.js
+node hichat.js
+cd..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+crontab -l
+cd /data/apps/nginx/logs/
+ll
+vim access.log 
+ls
+ll
+vim error.log 
+:
+ls
+cd ..
+ls
+cd conf/
+ll
+cd ..
+ll
+cd conf/
+ll
+vim nginx.conf
+netstat -apn| grep node
+netstat -apn| grep no
+ps
+history
+cd nodejs/
+node server
+HISTORY
+history
+history -w history.txt 
+ll
+cd
+cd ..
+ll
+history
+where is nodejs
+where is server.js
+cd /data/nodejs
+ll
+server.js
+npm install -g forever
+node server.js
+cd /data
+cd nodejs
+node server.js
+nohup node server.js &
+nohup node server.js > myLog.log 2>&1 &
+history
+tar -cvzf /data/back/20130103_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd 。。
+cd ..
+cd data
+cd htdocs
+cd www
+tar -cvzf /data/back/20160120_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd /data/htdocs/www
+ls
+cd ..
+cd ..
+where is tijian_pc_list.htm
+cd /data/htdocs/www
+where is tijian_pc_list.htm
+where is tijian
+tar -cvzf /data/back/20160120_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd /data/htdocs/www
+ls
+tar -cvzf /data/back/20160123_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd /data/nodejs
+ls
+tar -cvzf /data/back/20160120_2.tar.gz ./
+uname -a
+cd ..
+uname -a
+cat/etc/version
+cat /etc/version
+cat /etc/issue
+cat /etc/version
+fdisk -l
+df -h
+wget http://download.yunsuo.com.cn/yunsuo_agent_64bit.tar.gz
+tar zxvf yunsuo_agent_64bit.tar.gz
+chmod +x yunsuo_agent_64bit.bin
+./yunsuo_agent_64bit.bin
+ps -ef | grep yunsuo_agent
+ps -ef | grep yunsuo_agent
+cd vi
+ls
+cd etc
+ls
+cd sysconfig
+ls
+vi iptables
+vi iptables
+service iptables restart
+cd ..
+cd ..
+cd ..
+exit
+cd /data/htdocs/www
+tar -cvzf /data/back/20160127_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+tail -200 /data/log/nginx/2016/01/access_20160125.log
+tail -200f /data/log/nginx/2016/01/access_20160125.log
+history
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+history
+ps -ef | grep command
+ps -ef | grep nohup
+ps aux|grep node
+kill 31362
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+ps aux|grep node
+node server.js
+nohup node server.js &
+nohup node server.js > myLog.log 2>&1 &
+node server
+node server.js
+node server.js
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+history
+ps aux|grep node
+kill 13939
+ps aux|grep node
+ps aux|grep node
+ps aux|grep node
+ps aux|grep node
+node server
+node server.js
+node server.js
+cd /data/nodejs
+history
+nohup node server.js > myLog.log 2>&1 &
+cd \data\nodejs
+cd ..
+cd \data\nodejs
+cd /data/nodejs
+ps aux|grep node
+kill 14554
+node server.js
+node server.js
+ps aux|grep node
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+kill 26764
+ps aux|grep node
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+tail -200f mylog.log
+cd /data/nodejs
+tail -200f mylog.log
+ls
+tail -200f mylog.log
+tail -200f ./mylog.log
+tail -200f ./myLog.log
+tail -200f ./myLog.log
+tail -200f ./myLog.log
+ps aux|grep node
+kill 26955
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+kill 29246
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+kill 29268
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+tail -200f ./myLog.log
+ps aux|grep node
+kill 29282
+nohup node server.js > myLog.log 2>&1 &
+crontab -l
+ps aux|grep node
+ps aux|grep node
+crontab -l
+/data/monitor/procMonitor
+/data/htdocs/www/act/test.php
+cd ..
+cd ..
+cd /data
+cd htdocs
+cd www
+tar -cvzf /data/back/20160127_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd /data/htdocs/www/act
+chmod +w xxx.json
+chmod +w access_token.json
+chmod +w jsapi_ticket.json
+ll
+chmod 776 access_token.json
+chmod 776 jsapi_ticket.json
+ll
+ps aux|grep node
+kill 29309
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+node server.js
+node server.js
+node server.js
+node server.js
+cd ..
+cd ;;
+cd ..
+cd ..
+cd nodejs
+node server.js
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+kill 12238
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+kill 12246
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd ..
+cd ..
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+ps aux|grep node
+kill 15085
+cd ..
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+top
+history
+/data/apps/nginx/sbin/nginx -s reload
+cd ..
+/data/apps/nginx/sbin/nginx -s reload
+cd ..
+cd /data/apps/nginx/sbin
+nginx -s reload
+ll
+nginx
+nginx restart
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+/etc/init.d/nginx restart
+/data/apps/nginx/sbin/nginx restart
+/data/apps/nginx/sbin/nginx reload
+/data/apps/nginx/sbin/nginx
+/data/apps/nginx/sbin/nginx start
+/data/apps/nginx/sbin/nginx restart
+/data/apps/nginx/sbin/nginx
+ps aux|grep nginx
+cd /data/apps
+cd sbin
+cd sbin
+cd nginx
+cd sbin
+./nginx -s reload
+kill 29479
+nginx
+cd..
+cd..
+cd..
+cd..
+cd..
+cd..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+/data/apps/nginx/sbin/nginx
+netstat -tpnl
+netstat -tpnl
+/etc/init.d/mysql restart
+cd ..
+/data/apps/mysql restart
+/data/apps/mysql/mysql restart
+netstat -nptl
+cd ..
+/data/apps/mysql/mysql restart
+top
+netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
+ps aux|grep httpd|wc -l
+ps aux|grep php|wc -l
+ps aux|grep php|wc -l
+ps aux|grep php|wc -l
+ps aux|grep node
+ps aux|grep node
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+寒窮。。
+cd ..
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd ..
+/data/apps/mysql/mysql restart
+ps aux|grep node
+nohup node server.js > myLog.log 2>&1 &
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd /data/apps/mysql
+cd ..
+cd mysql
+mysql
+mysql start
+cd ..
+/data/apps/mysql/mysql restart
+ps aux|grep node
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd ..
+cd ..
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd 。。
+cd ..
+cd ..
+/data/apps/mysql/mysql restart
+cd /data/nodejs
+ps aux|grep node
+nohup node server.js > myLog.log 2>&1 &
+exit
+cd 。。
+cd ..
+passwd
+passwd
+id
+passwd kobby
+exit
+history
+top
+tail -1000f /usr/local/mysql/var/slowquery.log
+cd ..
+tail -1000f /data/apps/mysql/slowquery.log
+cd /data/apps/mysql
+ll
+cd var
+cd /usr/lo
+ll
+pwd
+cd log/
+ll
+df
+cd //
+ll
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+cd /data/apps/mysql/log/
+ll
+tail -100f slow.log 
+tail -100f slow.log 
+ll
+tail -100f slow.log 
+mysql 
+mysql -u root -p
+tail -100f slow.log 
+ll
+tail -100f slow.log 
+top
+ll
+df
+ll
+du -sh *
+top
+iptop
+iotop
+yum
+yum search iotop
+yum install iotop.noarch
+iotop
+iotop -o
+ps -ef|grep kjournald
+crontab -l
+/data/monitor/procMonitor
+show processlist
+/data/monitor/procMonitor
+crontab -l
+date
+ntpdate time.nist.gov
+ntpdate time.nist.gov
+ntpdate time.nist.gov
+ntpdate time.nist.gov
+crontab -l\
+crontab -l
+ps ax | grep "monitor.php"
+ps ax | grep "monitor.php"
+ps ax | grep "monitor.php"
+k
+kill - 9 20198
+kill -9 20198
+ps ax | grep "monitor.php"
+kill -9 20213
+ps ax | grep "monitor.php"
+kill -9 20401
+ps ax | grep "monitor.php"
+kill -9 20407
+ps ax | grep "monitor.php"
+kill -9 20409
+ps ax | grep "monitor.php"
+/data/monitor/procMonitor
+/data/monitor/procMonitor
+/data/monitor/procMonitor
+/data/apps/php/bin/php /data/monitor/monitor.php > /dev/null 2>&1 &
+/data/apps/php/bin/php /data/monitor/monitor.php > /dev/null 2>&1 &
+寒窮。。
+top
+crontab -l
+crontab -l
+crontab -e
+crontab -l
+/data/monitor/procMonitor
+ps ax | grep "monitor.php"
+ps ax | grep "monitor.php"
+kill 26099
+ps ax | grep "monitor.php"
+/data/monitor/monitor.php
+/data/apps/php/bin/php /data/monitor/monitor.php
+/data/apps/php/bin/php /data/monitor/monitor.php
+/data/monitor/procMonitor > /dev/null 2>&1
+ps ax | grep "monitor.php"
+ps ax | grep "monitor.php"
+ps ax | grep "monitor.php"
+history
+ps aux|grep node
+kill 14172
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd ..
+cd /data/nodejs
+nohup node server.js > myLog.log 2>&1 &
+ps aux|grep node
+cd /data/
+cd apps/
+cd n
+cd nginx/
+vim conf/nginx.conf
+vim conf/nginx.conf
+cd ..
+cd /data
+cd htdocs
+cd www
+tar -cvzf /data/back/20160127_2.tar.gz ./ --exclude=weixin/log --exclude=data/photo --exclude=data/jobpics --exclude=data/idcards --exclude=qy_weixin/log  --exclude=data/wxmedia --exclude=data/xls --exclude=data/hrtools --exclude=data/ads --exclude=data/images --exclude=data/adlogo
+cd ..
+cd ..
+ps aux|grep mysql
+cd /data/apps
+cd mysql
+history
+/data/apps/mysql/mysql restart
+cd ..
+cd ..
+cd ..
+nohup node server.js > myLog.log 2>&1 &
+cd /data
+ls
+cd nodejs
+nohup node server.js > myLog.log 2>&1 &
+uname -a
+uname -a #
+cat /proc/cpuinfo # 
+free -m
+free -m
+free -m
+free -m
+free -m
+free -m
+top
+fdisk -l
+top
+ssh root@192.168.1.8
+ping 192.168.1.8
+ssh root@192.168.1.8
+ifconfig -a
+ssh root@192.168.1.9
+ping 192.168.1.9
+ifconfig -a
+ping 192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ping 192.168.1.9
+ping 192.168.1.9
+ping 192.168.1.9
+ping 192.168.1.9
+ping 192.168.1.9
+df -h
+top
+cd /
+ls 
+cd data/
+ls
+cd log
+ls
+cd nginx/
+ls
+ps aux | grep php | wc -l
+ps aux | grep php 
+cat /data/apps/php/etc/php-fpm.conf
+top
+du . -h --max-depth=1
+cd /data/
+du . -h --max-depth=1
+top
+free
+cd htdocs/
+du . -h --max-depth=1
+cd www
+ls
+du . -h --max-depth=1
+cd weixin/
+ls
+du . -h --max-depth=1
+cd log
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+ls -lh
+cd htdocs/
+ls
+ls -lh
+cd ..
+ls
+cd log
+ls
+mkdir weblog
+ls
+ls -lh
+chown -R www:www ./weblog
+cd weblog/
+mkdir -p weixin
+mkdir -p qyweixin
+ls -lh
+cd ..
+chown -R www:www ./weblog
+ls -lh
+cd weblog/
+ls -lh
+cd weixin/
+pwd
+ls -lh
+cd ..
+ls
+ls -lh
+cd /data/htdocs/www/weixin/
+ls
+ls -lh
+mv ./log /data/log/weblog_back/
+ls -lh
+mkdir log
+chown -R www:www ./log
+cd ..
+du -h . --max-depth=1
+/usr/local/yunsuo --?
+/usr/local/yunsuo_agent/uninstall
+service iptables status
+service iptables stop
+service iptables start
+ls
+cd qy_weixin/
+ls
+mv  ./log /data/log/weblog_back/qylog
+cd ..
+cd qy_weixin/
+ls
+mkdir log
+chow www:www log
+chown www:www log
+cd ..
+du -h . --max-depth=1
+cd data/
+ls 
+du -h . --max-depth=1
+top
+top
+ps aux | grep mysql
+cd /data/data/mysql/data 
+ls 
+du -h . --max-depth=1
+cd jiayejob/
+du -h . --max-depth=1
+ls -lh
+ifconfig 
+ping 192.168.1.9
+history
+ssh root@192.168.1.9
+ifconfig
+cd \
+cd .\
+cd ..
+clear
+mysql - h 192.168.1.9 -u root -p
+mysql -h 192.168.1.9 -u root -p
+ssh root@192.168.1.9 
+cd ..
+top
+crontab -e
+crontab -l
+top
+top
+uname -a
+cat /proc/version
+cat /etc/issue
+cd 。。
+cd ..
+clear
+ssh root@192.168.1.9 -p
+ssh -u root@192.168.1.9 -p
+ssh root@192.168.1.9 
+ls
+ifconfig -a
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+cd ..
+ll
+ls
+cd ..
+cd data
+ls
+cd apps
+ls
+cd mysql
+cd mysql
+ls
+cat README
+cd ..
+cd nginx
+ls
+cd conf
+ls
+cd ..
+ls
+cd sbin
+ls
+cd html
+cd..
+cd html
+cd ..
+cd html
+ls
+cd ..
+cd ..
+cd ..
+cd..
+cd ..
+/data/apps/nginx/sbin/nginx -v
+node -v
+node -v
+ls
+cd data
+cd apps
+ls
+cd install_app
+ls
+cd ..
+cd php
+ls
+php -v
+cd ..
+cd ..
+cd ..
+cd /
+php -v
+ssh root@192.168.1.9
+ping 192.168.1.9
+mysql -u jyjob -p -h 192.168.1.9
+ifconfig -a
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ifconfig 
+ssh root@192.168.1.9
+ssh root@192.168.1.10
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+ls
+pwd
+ps aux | grep mysql
+cd  /data/data/mysql/data/jiayejob
+ls
+cd ..
+pwd
+cd jiayejob/
+pwd
+ifconfig -a
+service mysql stop
+service mysqld stop
+history
+history | grep mysql
+/data/apps/mysql/mysql stop
+scp -r /data/data/mysql/data/jiayejob root@192.168.1.9:/mysql/data
+ps aux | grep nodejs
+ps aux | grep node
+ps aux | grep server
+ifconfig
+cd /data/apps/mysql/
+ls
+cat my.cnf
+history | grep node
+cd /data/nodejs/
+nohup node server.js > myLog.log 2>&1 &
+ps aux | grep server
+ls
+cat myLog.log 
+ps aux | grep server
+cd /data/data/mysql/data/jiayejob
+ls
+ls -lh
+ls -lh | wc -l
+scp -r /data/data/mysql/data/jiayejob root@192.168.1.9:/mysql/data
+history | mysql 
+history | grep mysql 
+/data/apps/mysql/mysql restart
+cd  /data/data/mysql/data/jiayejob 
+cd ..
+/data/apps/mysql/mysql stop
+tar -cvzv /root/jyjob1000.tar.gz ./jiayejob
+ls
+cd jiayejob/
+ls
+/data/apps/mysql/mysql start
+cd ..
+tar -cvzf /root/jyjob1000.tar.gz ./jiayejob
+/data/apps/mysql/mysql stop
+tar -cvzf /root/jyjob0301.tar.gz ./jiayejob
+scp  /root/jyjob0301.tar.gz  root@192.168.1.9:/root/0301.tar.gz
+/data/apps/mysql/mysql start
+ls
+ls -lh
+scp  /data/data/mysql/data/ibdata1 root@192.168.1.9:/mysql/data/ibdata1
+cd /data/nodejs/
+ls
+history | grep node
+nohup node server.js > myLog2.log 2>&1 &
+history | grep server
+ps aux | grep server
+cat myLog2.log 
+cd ..
+service mysql stop
+cd /
+/data/apps/mysql/mysql stop
+top
+ssh root@192.168.1.9
+more /proc/cpuinfo
+ssh root@192.168.1.9
+ssh root@192.168.1.9
+free
+free -m
+df -h
+df
+df -h
+cat /proc/meminfo 
+df -h
+top
+cat /proc/version
+rpm -qa |grep php
+cd /data/apps/php
+ls
+cd php
+ls
+cd var
+cd ..
+cd var
+ls
+cd ..
+cd www
+ls
+ls
+cd ..
+cd cfg
+ls
+cd ..
+cd bin
+ls
+more php-config 
+c
+ssh root@192.168.1.9
+crontab -l
+ssh root@192.168.1.9
+rpm -q ntp
+ssh root@192.168.1.9
+cd /etc/
+ls
+more ntp.conf
+cd /data/nodejs
+history
+history -w history.txt

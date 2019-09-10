@@ -1,0 +1,9 @@
+{
+"host":"localhost",
+"user":"jyjob",
+"password":"jy1008gb8FTKU8fs",
+"port":3306,
+"database":"jiayejob",
+"socketPath":"/tmp/mysql.sock",
+"connectTimeout":"120"
+}
